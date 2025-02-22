@@ -1,4 +1,6 @@
 public class Ex3 {
+	
+// main method
     public static void main(String[] args) {
         int num = 20;
         System.out.println("Prime numbers up to " + num + " are: ");
