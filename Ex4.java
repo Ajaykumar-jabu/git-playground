@@ -13,7 +13,7 @@ public class Ex4 {
         }
         return true;
     }
-
+//main method
     public static void main(String[] args) {
         String testStr = "A man, a plan, a canal, Panama";
         System.out.println("Is '" + testStr + "' a palindrome? " + isPalindrome(testStr));
